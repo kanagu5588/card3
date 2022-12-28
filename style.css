@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aquamarine;
+}
+.card{
+    background-color: rgb(34, 171, 239);
+    height: 500px;
+    width: 300px;
+    margin-left: 40%;
+    margin-top: 130px;
+    box-shadow: 10px 10px 10px;
+}
+img{
+    height: 200px;
+    width: 280px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.name{
+    text-align: center;
+    line-height: 1.5;
+}
+p{
+    line-height: 1;
+}
+button{
+    padding: 10px 10px;
+    margin-left: 35%;
+    margin-top: 50px;
+    background-color: rgb(242, 33, 144);
+    color: white;
+    border-radius: 6px;
+    border: none;
+}
